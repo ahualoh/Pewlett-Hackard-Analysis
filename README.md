@@ -24,5 +24,5 @@ The second analsis is where we produced employees that may be candidates to be m
 - The mentor candidates are assumed to be approximately 10 years younger than the retirement-ready cohort. 
 
 
-## Summary: 
+## Summary
 The "silver tsunami" implies that there are over 72K positions that will need to be filled, or at least reevaluated for need. Though not all of them may retire at the same time, we would have to get a feel for how long they'd stay. The mentorship candidacy pool needs to be expanded beyond just employees born within the year of 1965 because it only covers 2% of the retirement-ready cohort. Even if not all 72K positions need to be filled, with only 1500 mentors, that's still a lot of mentees per mentor to take on (about 48:1), especially when not everyone in the mentor-candidate cohort would be willing to become a mentor. 
